@@ -5,7 +5,7 @@ This course taught me the fundamentals of Python, and then proceed to learn abou
 
 We covered the following topics:
 
-<\n> Python Fundamentals
+* Python Fundamentals
 NumPy for High Speed Numerical Processing
 Pandas for Efficient Data Analysis
 Matplotlib for Data Visualization
