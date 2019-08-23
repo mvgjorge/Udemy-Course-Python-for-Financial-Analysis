@@ -5,7 +5,7 @@ This course taught me the fundamentals of Python, and then proceed to learn abou
 
 We covered the following topics:
 
-Python Fundamentals
+<\n> Python Fundamentals
 NumPy for High Speed Numerical Processing
 Pandas for Efficient Data Analysis
 Matplotlib for Data Visualization
@@ -19,7 +19,7 @@ Statsmodels
 ETS (Error-Trend-Seasonality)
 ARIMA (Auto-regressive Integrated Moving Averages)
 Auto Correlation Plots and Partial Auto Correlation Plots
-Sharpe Ratio
+<\n> Sharpe Ratio
 Portfolio Allocation Optimization 
 Efficient Frontier and Markowitz Optimization
 Types of Funds
